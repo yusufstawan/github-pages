@@ -1,2 +1,1 @@
-My Portfolio link:
-https://yusufstawan.github.io/
+Github Pages link: https://yusufstawan.github.io/
